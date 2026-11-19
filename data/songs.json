@@ -1,1 +1,17 @@
 
+[
+  {
+    "id": "song001",
+    "title": "YOUR SONG TITLE",
+    "artist": "ARTIST NAME",
+    "album": "Single",
+    "genre": "Melody",
+    "language": "Malayalam",
+    "description": "Your song description.",
+    "audio": "songs/malayalam/song01.mp3",
+    "cover": "covers/malayalam/song01.jpg",
+    "releaseDate": "2026-11-19",
+    "published": true
+  }
+]
+  
